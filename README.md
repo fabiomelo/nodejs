@@ -1,2 +1,2 @@
 # nodejs
-basic nodeJS + express project
+basic nodeJS + express + jade  project
